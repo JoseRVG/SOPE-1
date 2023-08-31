@@ -1,0 +1,7 @@
+#Makefile
+
+rmdup: lsdir rmdup.c listrf.c sortrf.c readrf.c comprf.c rfent.c listrf.h sortrf.h readrf.h comprf.h rfent.h
+	gcc -o rmdup rmdup.c listrf.c sortrf.c readrf.c comprf.c rfent.c -Wall
+	
+lsdir: lsdir.c
+	gcc -o lsdir lsdir.c -Wall

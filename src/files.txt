@@ -1,0 +1,13 @@
+                     file name |             relative file path |       size |     mode_t | permissions |  inode num | secs Epoch
+                        f1.txt |               ../ftest//f1.txt |         32 |      33188 |   rw-r--r-- |    1329548 | 1460913557
+                        f1.txt |            ../ftest//ab/f1.txt |         32 |      33188 |   rw-r--r-- |    1329548 | 1460913557
+                        f1.txt |            ../ftest//ac/f1.txt |         32 |      33216 |   rwx------ |    1329552 | 1460916243
+                      last.txt |       ../ftest//vazia/last.txt |         10 |      33204 |   rw-rw-r-- |    1329560 | 1460934545
+                      last.txt |             ../ftest//last.txt |         10 |      33206 |   rw-rw-rw- |    1329559 | 1460934532
+                     notanymor |            ../ftest//notanymor |         19 |      33204 |   rw-rw-r-- |    1329558 | 1460933387
+                    notanymore |     ../ftest//vazia/notanymore |         19 |      33204 |   rw-rw-r-- |    1329556 | 1460933236
+                    notanymore |           ../ftest//notanymore |         19 |      33204 |   rw-rw-r-- |    1329556 | 1460933236
+                      rita.txt | ../ftest//rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr/rita.txt |          5 |      33204 |   rw-rw-r-- |    1329554 | 1460916610
+                         s.txt |                ../ftest//s.txt |          0 |      33204 |   rw-rw-r-- |    1329557 | 1460934061
+                         s.txt |             ../ftest//ab/s.txt |          0 |      33204 |   rw-rw-r-- |    1329557 | 1460934061
+                         s.txt |             ../ftest//ac/s.txt |          0 |      33204 |   rw-rw-r-- |    1329557 | 1460934061

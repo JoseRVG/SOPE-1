@@ -1,0 +1,10 @@
+#ifndef SOPE_P1_SRC_SIZELIM_H_
+#define SOPE_P1_SRC_SIZELIM_H_
+
+#define MAX_D_NAME 128
+#define MAX_DIR_NAME 256
+#define MAX_D_FULL_NAME 385
+#define MAX_RFENTS 1000
+#define MAX_RFENT_LINE 1024
+
+#endif /* SOPE_P1_SRC_SIZELIM_H_ */

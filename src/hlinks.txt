@@ -1,0 +1,4 @@
+../ftest//ab/f1.txt (inode: 1329548) -> ../ftest//f1.txt (inode: 1329548)
+../ftest//notanymore (inode: 1329556) -> ../ftest//vazia/notanymore (inode: 1329556)
+../ftest//ab/s.txt (inode: 1329557) -> ../ftest//s.txt (inode: 1329557)
+../ftest//ac/s.txt (inode: 1329557) -> ../ftest//s.txt (inode: 1329557)

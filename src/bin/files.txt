@@ -1,0 +1,1 @@
+                     file name |             relative file path |       size |     mode_t | permissions |  inode num | secs Epoch
